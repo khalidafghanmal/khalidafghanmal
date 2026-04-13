@@ -58,4 +58,5 @@
 </div>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidafghanmal&theme=github" alt="Activity graph" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=0e75b6&style=flat)
 ###
