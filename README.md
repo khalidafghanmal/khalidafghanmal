@@ -45,6 +45,7 @@
 </div>
 
 ###
+![Profile views](https://komarev.com/ghpvc/?username=khalidafghanmal)
 
 <br clear="both">
 
@@ -58,4 +59,3 @@
 </div>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidafghanmal&theme=github" alt="Activity graph" /> </p>
-![Profile views](https://komarev.com/ghpvc/?username=USERNAME)
