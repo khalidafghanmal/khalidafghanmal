@@ -44,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
-![Profile views](https://komarev.com/ghpvc/?username=khalidafghanmal)
 
 <br clear="both">
 
